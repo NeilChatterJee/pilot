@@ -1,0 +1,10 @@
+IPL,Who won the IPL in 2023?,Gujarat Titans,Mumbai Indians,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings
+IPL,Which team has won the most IPL titles?,Mumbai Indians,CSK,KKR,RCB,Mumbai Indians
+IPL,Who is the leading run scorer in IPL history?,Virat Kohli,David Warner,Rohit Sharma,Shikhar Dhawan,Virat Kohli
+IPL,Which team is based in Bangalore?,CSK,RCB,KKR,MI,RCB
+IPL,Who is known as Captain Cool?,Virat Kohli,MS Dhoni,Rohit Sharma,KL Rahul,MS Dhoni
+IPL,Who won the Purple Cap in 2022?,Yuzvendra Chahal,Harshal Patel,Jasprit Bumrah,Rashid Khan,Yuzvendra Chahal
+IPL,Who was the first IPL winning captain?,MS Dhoni,Rahul Dravid,Shane Warne,Adam Gilchrist,Shane Warne
+IPL,Which team is also called Men in Yellow?,RCB,CSK,MI,DC,CSK
+IPL,Who hit the most sixes in IPL 2023?,Faf du Plessis,Shubman Gill,Glenn Maxwell,Ruturaj Gaikwad,Faf du Plessis
+IPL,Which bowler has the most wickets in IPL history?,Lasith Malinga,Dwayne Bravo,Bhuvneshwar Kumar,Ravichandran Ashwin,Dwayne Bravo

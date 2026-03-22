@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Print Input</title>
+</head>
+<body>
+  <h1>Enter Something Below</h1>
+  
+  <!-- Input Field -->
+  <input type="text" id="userInput" placeholder="Type something..." />
+  
+  <!-- Button to Trigger Action -->
+  <button onclick="printInput()">Print</button>
+  
+  <!-- Area to Display Output -->
+  <p id="output"></p>
+
+  <script>
+    // JavaScript Function to Print Input
+    function printInput() {
+      // Get the value from the input field
+      const input = document.getElementById('userInput').value;
+
+      // Display the value in the output paragraph
+      document.getElementById('output').textContent = `You entered: ${input}`;
+    }
+  </script>
+</body>
+</html>
